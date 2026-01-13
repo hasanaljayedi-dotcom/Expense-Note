@@ -1,0 +1,5 @@
+{
+  "name": "Expense Note",
+  "description": "A secure, offline-first money management app for students to track income and expenses in Bengali and English.",
+  "requestFramePermissions": []
+}
